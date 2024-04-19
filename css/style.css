@@ -214,7 +214,7 @@ body {
 }
 
 
-  @media screen and (max-width: 10px) {
+  @media screen and (max-width: 700px) {
    
     .Photo-album .pt{
       display: flex;
